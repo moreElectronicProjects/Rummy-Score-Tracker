@@ -11,13 +11,13 @@ Note: running this program on Windows will cause an error when the program attem
 from
 
 ```
-    clear_screen_command = "clear"
+clear_screen_command = "clear"
 ```
 
 to
 
 ```
-    clear_screen_command = "cls"
+clear_screen_command = "cls"
 ```
 
 # How to Change a Score of a Player
